@@ -1,0 +1,35 @@
+Learn C# in One Day and Learn It Well
+1518800270
+10
+Jamie Chan
+11.67
+The C# Player's Guide
+0985580135
+0
+RB Whitaker
+26.96
+C# 6.0 and the .NET 4.6 Framework
+1484213335
+8
+Andrew Troelsen and Philip Japikse
+49.1
+Microsoft Visual C# Step by Step
+1509301046
+7
+John Sharp
+22.07
+C# 6 for Programmers
+0134596323
+6
+Paul J. Deitel and Harvey Deitel
+43.99
+C# in Depth
+161729134X
+5
+Jon Skeet
+35.32
+C# 6.0 in a Nutshell: The Definitive Reference
+1491927062
+4
+Joseph Albahari & Ben Albahari
+47.08

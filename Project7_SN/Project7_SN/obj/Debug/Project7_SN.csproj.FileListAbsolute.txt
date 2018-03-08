@@ -1,0 +1,16 @@
+c:\users\phu nguyen\documents\visual studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.exe.config
+c:\users\phu nguyen\documents\visual studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.exe
+c:\users\phu nguyen\documents\visual studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.pdb
+c:\users\phu nguyen\documents\visual studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.csprojResolveAssemblyReference.cache
+c:\users\phu nguyen\documents\visual studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.exe
+c:\users\phu nguyen\documents\visual studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.exe.config
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.pdb
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.exe.config
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.exe
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\bin\Debug\Project7_SN.pdb
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.exe
+C:\Users\Admin\Documents\files\Visual Studio 2015\Projects\Project7_SN\Project7_SN\obj\Debug\Project7_SN.pdb
